@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">myapp</string>
+    <string name="Title">Title</string>
+    <string name="d_Day">개봉일: 2018-01-01</string>
+    <string name="desc">영화 설명을 나타냅니다.</string>
+</resources>
